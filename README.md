@@ -2,8 +2,8 @@
 ## Tech9 Agentic AI Engineer Assessment
 
 **Candidate**: Oscar Rangel
-**Date**: January 2025
-**Assessment Version**: 2.0 (Updated Oct 23, 2025)
+**Date**: Nov 2025
+**Assessment Version**: 1.0
 
 ---
 
@@ -19,8 +19,7 @@ This project implements a **production-ready multi-agent system** for autonomous
 - ✅ **Production-Ready**: Error handling, cost tracking, structured logging
 
 ### System Performance
-- **Execution Time**: 3-4 minutes per research
-- **Quality**: 8.9/10 weighted score
+- **Execution Time**: 1-3 minutes per research
 - **Cost**: ~$0.60 per research
 - **Autonomy**: 100% (no human intervention)
 

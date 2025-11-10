@@ -433,11 +433,10 @@ This project demonstrates:
 
 **This is not just a demo—it's a foundation for a real product.**
 
-The system can be deployed to consulting workflows today, with a clear roadmap for scaling to enterprise SaaS platform serving thousands of users.
+The system can be deployed to consulting workflows today, with a clear roadmap for scaling to an enterprise SaaS platform serving thousands of users.
 
 ---
 
 **Built with**: Python, LangGraph, OpenAI GPT-4, Tavily AI Search
 **Assessment**: Tech9 Agentic AI Engineer
-**Score**: 8.9/10 (4.45/5.0)
 **Status**: Production-Ready v1.0

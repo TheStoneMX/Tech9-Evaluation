@@ -313,24 +313,6 @@ except Exception as e:
 
 ---
 
-## Limitations & Future Work
-
-### Known Limitations
-- Sequential execution (could be parallelized for 2-3x speed gain)
-- English-only sources
-- Limited to web search (could add specialized APIs)
-- Heuristic source evaluation (could use ML models)
-- No ground truth validation
-
-### Roadmap to Production
-See `04_evaluation/production_roadmap.md` for detailed plan:
-- **Phase 1** (Weeks 1-4): Infrastructure (API, DB, auth)
-- **Phase 2** (Weeks 5-12): Quality improvements (ML scoring, more APIs)
-- **Phase 3** (Weeks 13-20): Scale (distributed agents, K8s)
-- **Phase 4** (Weeks 21-24): Advanced AI (RL optimization, multimodal)
-
----
-
 ## Testing
 
 ### Test Scenarios
